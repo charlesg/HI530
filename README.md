@@ -6,4 +6,19 @@ The course is based on the book "Data Mining for Business Analytics: Concepts, T
 
 More information on the at this website: https://www.dataminingbook.com/book/python-edition.
 
+# Create Environmment
+
+```
+# Envionment was created with:
+conda list --explicit > spec-list.txt
+
+# Import and recreate with:
+conda create --name HI530 --file spec-list.txt
+```
+
+# Activate Environment
+
+```
 ~/anaconda3/bin/activate /Users/cgagnon/anaconda3/envs/HI530
+```
+
