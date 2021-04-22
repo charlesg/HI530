@@ -2,3 +2,5 @@
 /api_key.env
 .ipynb_checkpoints/
 .idea/
+/module5/datasets/
+/module6/drugLib_raw.zip
